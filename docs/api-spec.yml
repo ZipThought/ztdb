@@ -1,0 +1,7 @@
+openapi: 3.1.0
+info:
+  title: ZTDB API
+  version: 0.1.0
+  description: API specification for ZTDB (ZipThought Database)
+
+# Add your API endpoints and definitions here
